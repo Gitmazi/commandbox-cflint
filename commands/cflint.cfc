@@ -269,8 +269,9 @@ component {
 					default:
 						newIssue.color = "magenta";
 				}
-
-				data.files[ item.file ].append( newIssue );
+				if(false){ //changed by maz
+								data.files[ item.file ].append( newIssue );
+				}
 			}
 		}
 
