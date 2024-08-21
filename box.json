@@ -1,7 +1,7 @@
 {
-    "name":"commandbox-cflint",
+    "name":"commandbox-cflint-maz",
     "version":"2.4.0",
-    "author":"Jason Steinshouer",
+    "author":"Maziar Navabi",
     "location":"forgeboxStorage",
     "homepage":"https://github.com/Gitmazi/commandbox-cflint",
     "documentation":"https://github.com/Gitmazi/commandbox-cflint",
