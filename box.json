@@ -3,13 +3,13 @@
     "version":"2.4.0",
     "author":"Jason Steinshouer",
     "location":"forgeboxStorage",
-    "homepage":"https://github.com/jsteinshouer/commandbox-cflint",
-    "documentation":"https://github.com/jsteinshouer/commandbox-cflint",
+    "homepage":"https://github.com/Gitmazi/commandbox-cflint",
+    "documentation":"https://github.com/Gitmazi/commandbox-cflint",
     "repository":{
         "type":"git",
-        "URL":"https://github.com/jsteinshouer/commandbox-cflint"
+        "URL":"https://github.com/Gitmazi/commandbox-cflint"
     },
-    "bugs":"https://github.com/jsteinshouer/commandbox-cflint/issues",
+    "bugs":"https://github.com/Gitmazi/commandbox-cflint/issues",
     "slug":"commandbox-cflint",
     "shortDescription":"CommandBox command for running CFLint",
     "description":"CommandBox command for running CFLint",
@@ -35,6 +35,7 @@
     ],
     "contributors":[
         "Luis Majano <lmajano@ortussolutions.com>",
-        "Michael Anderson <micander@gmail.com>"
+        "Michael Anderson <micander@gmail.com>",
+		"Maziar Navabi <maziar.navabi@cservices.com.au>"
     ]
 }
